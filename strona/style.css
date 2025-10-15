@@ -50,7 +50,7 @@ main {
 
 .hero {
   text-align: center;
-  background: #00c3ff;
+  background: #34F4F3;
   padding: 40px;
   border-radius: 10px;
 }
@@ -109,7 +109,7 @@ main {
 }
 
 .contact-form button {
-  background: #00c3ff;
+  background: #34F4F3;
   color: rgb(0, 0, 0);
   border: none;
   padding: 10px;
@@ -148,4 +148,5 @@ footer {
     align-items: center;
   }
 }
+
 
