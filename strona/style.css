@@ -8,7 +8,7 @@ body {
 
 /* Nagłówek */
 header {
-  background: #e100ff;
+  background: #FF86E6;
   color: rgb(0, 0, 0);
   display: flex;
   justify-content: space-between;
@@ -125,7 +125,7 @@ main {
 /* Stopka */
 footer {
   text-align: center;
-  background: #ff00ff;
+  background: #FF86E6;
   color: rgb(0, 0, 0);
   padding: 15px;
   margin-top: 30px;
@@ -148,3 +148,4 @@ footer {
     align-items: center;
   }
 }
+
